@@ -9317,8 +9317,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Icon
       value: 
-      objectReference: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000,
-        type: 0}
+      objectReference: {fileID: 0}
     - target: {fileID: -4680409257237934131, guid: 3fe776c32e3c5114cbf83c5aa7669a2a,
         type: 3}
       propertyPath: m_LocalRotation.x
